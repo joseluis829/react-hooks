@@ -265,6 +265,97 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "bobbywarner",
+      "name": "Bobby Warner",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/554961?v=4",
+      "profile": "http://bobbywarner.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "douglance",
+      "name": "Doug Lance",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/4741454?v=4",
+      "profile": "https://github.com/douglance",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "nekhaevskiy",
+      "name": "Yury Nekhaevskiy",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/15379100?v=4",
+      "profile": "https://github.com/nekhaevskiy",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "mansn",
+      "name": "Måns Nilsson",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/4518977?v=4",
+      "profile": "https://github.com/mansn",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "cwinters8",
+      "name": "Clark Winters",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/40615752?v=4",
+      "profile": "https://clarkwinters.com",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "omarhoumz",
+      "name": "Omar Houmz",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/40954879?v=4",
+      "profile": "https://omarhoumz.com/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "suddenlyGiovanni",
+      "name": "Giovanni Ravalico",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/15946771?v=4",
+      "profile": "https://suddenlyGiovanni.dev",
+      "contributions": [
+        "code",
+        "ideas"
+      ]
+    },
+    {
+      "login": "Segebre",
+      "name": "Juan Enrique Segebre Zaghmout",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/10774915?v=4",
+      "profile": "https://github.com/Segebre",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Alferguson",
+      "name": "John Alexander Ferguson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30883573?v=4",
+      "profile": "https://www.linkedin.com/in/johnalexanderferguson/",
+      "contributions": [
+        "test"
+      ]
+    },
+    {
+      "login": "trentschnee",
+      "name": "Trent Schneweis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10525549?v=4",
+      "profile": "https://trentschneweis.com",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
